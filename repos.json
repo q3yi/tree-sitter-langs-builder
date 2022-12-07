@@ -1,0 +1,88 @@
+[
+  {
+    "language": "bash",
+    "repo": "https://github.com/tree-sitter/tree-sitter-bash.git"
+  },
+  {
+    "language": "c",
+    "repo": "https://github.com/tree-sitter/tree-sitter-c.git"
+  },
+  {
+    "language": "cpp",
+    "repo": "https://github.com/tree-sitter/tree-sitter-cpp.git"
+  },
+  {
+    "language": "css",
+    "repo": "https://github.com/tree-sitter/tree-sitter-css.git"
+  },
+  {
+    "language": "c-sharp",
+    "repo": "https://github.com/tree-sitter/tree-sitter-c-sharp.git"
+  },
+  {
+    "language": "erlang",
+    "repo":"https://github.com/WhatsApp/tree-sitter-erlang.git"
+  },
+  {
+    "language": "elixir",
+    "repo":"https://github.com/elixir-lang/tree-sitter-elixir.git"
+  },
+  {
+    "language": "dockerfile",
+    "repo":"https://github.com/camdencheek/tree-sitter-dockerfile.git"
+  },
+  {
+    "language": "go",
+    "repo": "https://github.com/tree-sitter/tree-sitter-go.git"
+  },
+  {
+    "language": "go-mod",
+    "repo": "https://github.com/camdencheek/tree-sitter-go-mod.git"
+  },
+  {
+    "language": "haskell",
+    "repo": "https://github.com/Azganoth/tree-sitter-haskell.git"
+  },
+  {
+    "language": "html",
+    "repo": "https://github.com/tree-sitter/tree-sitter-html.git"
+  },
+  {
+    "language": "javascript",
+    "repo": "https://github.com/tree-sitter/tree-sitter-javascript.git"
+  },
+  {
+    "language": "json",
+    "repo": "https://github.com/tree-sitter/tree-sitter-json.git"
+  },
+  {
+    "language": "lua",
+    "repo": "https://github.com/Azganoth/tree-sitter-lua.git"
+  },
+  {
+    "language": "python",
+    "repo": "https://github.com/tree-sitter/tree-sitter-python.git"
+  },
+  {
+    "language": "rust",
+    "repo": "https://github.com/tree-sitter/tree-sitter-rust.git"
+  },
+  {
+    "language": "markdown",
+    "repo": "https://github.com/ikatyang/tree-sitter-markdown"
+  },
+  {
+    "language": "typescript",
+    "repo": "https://github.com/tree-sitter/tree-sitter-typescript.git",
+    "repo_root": "typescript"
+  },
+  {
+    "language": "tsx",
+    "repo": "https://github.com/tree-sitter/tree-sitter-typescript.git",
+    "repo_root": "tsx"
+  },
+  {
+    "language": "yaml",
+    "repo": "https://github.com/ikatyang/tree-sitter-yaml.git"
+  }
+]
